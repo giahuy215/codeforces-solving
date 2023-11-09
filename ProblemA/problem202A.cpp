@@ -1,3 +1,4 @@
+// https://codeforces.com/problemset/problem/202/A
 // A. LLPS
 // time limit per test: 2 seconds
 // memory limit per test: 256 megabytes

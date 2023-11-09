@@ -1,3 +1,4 @@
+// https://codeforces.com/problemset/problem/228/A
 // A. Is your horseshoe on the other hoof?
 // time limit per test: 2 seconds
 // memory limit per test: 256 megabytes

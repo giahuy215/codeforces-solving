@@ -1,3 +1,4 @@
+// https://codeforces.com/problemset/problem/181/A
 // A. Series of Crimes
 // time limit per test: 2 seconds
 // memory limit per test: 256 megabytes
