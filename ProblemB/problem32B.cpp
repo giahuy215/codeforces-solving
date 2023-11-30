@@ -16,9 +16,7 @@
 // Output the decoded ternary number. It can have leading zeroes.
 #include <bits/stdc++.h>
 #define FOR(i, a, b) for (int i = (a); i < (b); i++)
-#define ROF(i, a, b) for (int i = (b-1); i >= (a); i--)
 
-#define all(x) (x).begin(), (x).end()
 using namespace std;
 
 int main() {
