@@ -1,3 +1,19 @@
+// https://codeforces.com/problemset/problem/32/B
+// B. Borze
+// time limit per test: 2 seconds
+// memory limit per test: 256 megabytes
+// input: standard input
+// output: standard output
+// Ternary numeric notation is quite popular in Berland. To telegraph the ternary number the Borze alphabet is used. 
+// Digit 0 is transmitted as «.», 1 as «-.» and 2 as «--». 
+// You are to decode the Borze code, i.e. to find out the ternary number given its representation in Borze alphabet.
+
+// Input
+// The first line contains a number in Borze code. The length of the string is between 1 and 200 characters. 
+// It's guaranteed that the given string is a valid Borze code of some ternary number (this number can have leading zeroes).
+
+// Output
+// Output the decoded ternary number. It can have leading zeroes.
 #include <bits/stdc++.h>
 #define FOR(i, a, b) for (int i = (a); i < (b); i++)
 #define ROF(i, a, b) for (int i = (b-1); i >= (a); i--)
