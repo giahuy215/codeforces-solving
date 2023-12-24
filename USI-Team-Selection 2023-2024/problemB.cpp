@@ -38,8 +38,8 @@ int main() {
   {
     double x1, y1, x2, y2;
     cin >> x1 >> y1 >> x2 >> y2;
-    double n = abs(x1 - x2) / 2;
-    cout << setprecision(7) << fixed << sqrt((y2 + y1) * (y2 + y1) + n * n * 4) << endl;
+    double n = abs(x1 - x2);
+    cout << setprecision(7) << fixed << sqrt((y2 + y1) * (y2 + y1) + n * n) << endl;
   }
 
   return 0;
