@@ -12,9 +12,9 @@
   You are given an integer n.
   You can perform any of the following operations with this number an arbitrary (possibly, zero) number of times:
 
-  - Replace n with n2 if n is divisible by 2;
-  - Replace n with 2n3 if n is divisible by 3;
-  - Replace n with 4n5 if n is divisible by 5.
+  - Replace n with n/2 if n is divisible by 2;
+  - Replace n with 2n/3 if n is divisible by 3;
+  - Replace n with 4n/5 if n is divisible by 5.
   For example, you can replace 30 with 15 using the first operation, with 20 using the second operation or with 24 using the third operation.
 
   Your task is to find the minimum number of moves required to obtain 1 from n or say that it is impossible to do it.
