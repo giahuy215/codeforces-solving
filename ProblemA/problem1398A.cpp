@@ -4,10 +4,10 @@
 /*
   https://codeforces.com/contest/1398/problem/A
   A. Bad Triangle
-time limit per test: 1 second
-memory limit per test: 256 megabytes
-input: standard input
-output: standard output
+  time limit per test: 1 second
+  memory limit per test: 256 megabytes
+  input: standard input
+  output: standard output
 
   You are given an array a1,a2,…,an, which is sorted in non-decreasing order (ai ≤ ai + 1).
 
