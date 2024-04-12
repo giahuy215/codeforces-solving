@@ -2,6 +2,7 @@
   Author : Nguyen Duc Gia Huy
 */
 /*
+  https://codeforces.com/contest/454/problem/A
   A. Little Pony and Crystal Mine
   time limit per test: 1 second
   memory limit per test: 256 megabytes
