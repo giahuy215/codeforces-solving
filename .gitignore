@@ -3,6 +3,7 @@ template.cpp
 graph.cpp
 bfs.cpp
 dfs.cpp
+sort.cpp
 
 # Compiled Object files
 *.slo
