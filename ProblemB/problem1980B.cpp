@@ -20,7 +20,7 @@
 
   - After sorting a=[4,3,3,3,2], since the favorite cube ended up in the second position, it will be removed.
   - After sorting a=[4,3,3,3,2], since the favorite cube ended up in the third position, it will not be removed.
-  
+
   Input
   The first line contains an integer t (1 ≤ t ≤ 1000) — the number of test cases. Then follow the descriptions of the test cases.
 
@@ -60,7 +60,7 @@ int main()
     }
 
     sort(p, p + n, greater<pair<int, int>>());
-    // for(auto x: p) cout << x.first << " " << x.second << endl;
+
     FOR(i, 0, n) {
       if(p[i].second == f) {
         if(k - 1 >= i && p[k].first != p[i].first) {
