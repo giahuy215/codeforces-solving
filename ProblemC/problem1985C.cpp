@@ -44,10 +44,8 @@ int main() {
     ll n, mx = 0, sum = 0, cnt = 0;
     cin >> n;
     ll a[n];
-    map<ll, ll> mp;
     for(ll i = 0; i < n; i++) {
       cin >> a[i];
-      mp[a[i]]++;
       if(a[i] > mx) mx = a[i];
       sum += a[i];
       if(sum - mx == mx) cnt++;
