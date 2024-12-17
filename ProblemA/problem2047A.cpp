@@ -3,10 +3,11 @@
   Date(DD-MM-YYYY): 17-12-2024
 */
 /*
+  https://codeforces.com/problemset/problem/2047/A
   A. Alyona and a Square Jigsaw Puzzle
   time limit per test: 1 second
   memory limit per test: 256 megabytes
-  
+
   Alyona assembles an unusual square Jigsaw Puzzle. She does so in n days in the following manner:
 
   - On the first day, she starts by placing the central piece in the center of the table.
